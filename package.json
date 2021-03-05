@@ -1,6 +1,6 @@
 {
   "name": "@ngc-corp/stylelint-scss-rules",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Stylelint Scss rules used in NGC Corp. projects",
   "main": "index.js",
   "repository": {
